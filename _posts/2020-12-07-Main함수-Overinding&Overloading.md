@@ -2,6 +2,8 @@
 title: "Main함수의 Overriding / Overloading" 
 date: 2020-12-07 15:00:00 +0900 
 categories: java
+tags:
+  - Java
 ---
 
 main함수는 main함수는 java 프로그램의 시작이자 끝의 역할을 하고 있어 다른 함수들과는 다른 취급을 받을거라는 인상을 준다. 

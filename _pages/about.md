@@ -2,7 +2,21 @@
 permalink: /about/
 title: "About"
 ---
+### Hi there 👋
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Software developer from Seoul, S.Korea
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- Working on Backend servers / Batch jobs in Samsung Electronics...
+    - I'm working on Java Springboot projects most
+    - I also get used to use Python for AWS Lambda / Apache Airflow
+    - I have experiences Using Git Action and Kubernetes(Terraform / Helm...)
+        - I have CKA certification!
+
+- I also interested in
+    - ⚒️ Vim (use IdeaVim on Intellij)
+    - ⌨️ Custom Keyboards (use HappyHacking Pro / QK60)
+    - 😻 Cats
+    - 👾 Video Games (BeatMania IIDX / League of Legends / Nintendo Switch...)
+    - ✍🏼 Writing blog pots [>> my github.io!](https://kaidenaura.github.io)
+    - ✈️ Traveling
+        - I want to work and live abroad at least once in the future!
