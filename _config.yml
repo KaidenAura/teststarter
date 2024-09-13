@@ -18,9 +18,9 @@ locale                   : "en-US"
 title                    : "Kaiden Aura's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KaidenAura"
-description              : "Blog of KaidenAura, interested in programming, cats, Beatmania IIDX"
-url                      : "https://kaidenAura.github.io"
+name                     : "dubli91"
+description              : "Blog of dubli91, interested in programming, cats, Beatmania IIDX"
+url                      : "https://dubli91.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -92,7 +92,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "kaidenAura"
+  name             : "dubli91"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "API server developer"
   location         : "Seoul, S.Korea"
@@ -111,7 +111,7 @@ author:
       url: "dublineryh@gmail.com"
     - label: "github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kaidenAura"
+      url: "https://github.com/dubli91"
 #   - label: "instagram"
 #     icon: "fab fa-fw fa-instagram"
 #     # url: "https://instagram.com/"

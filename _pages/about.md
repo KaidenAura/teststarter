@@ -17,6 +17,6 @@ title: "About"
     - ⌨️ Custom Keyboards (use HappyHacking Pro / QK60)
     - 😻 Cats
     - 👾 Video Games (BeatMania IIDX / League of Legends / Nintendo Switch...)
-    - ✍🏼 Writing blog pots [>> my github.io!](https://kaidenaura.github.io)
+    - ✍🏼 Writing blog pots [>> my github.io!](https://dubli91.github.io)
     - ✈️ Traveling
         - I want to work and live abroad at least once in the future!
